@@ -1,7 +1,7 @@
-### Oiii!! Eu sou a Bianca Rangel Albino 
+### Oii!! Eu sou a Bianca Rangel Albino 
 
 - 🔭 Atualmente, estou estudando tecnologias front-end
-- 🌱 Estudante Sitemas de Informação na PUC Minas
+- 🌱 Estudante de Sistemas de Informação na PUC Minas
 - 📫 Contate-me no email: bianca_albinodev@hotmail.com
 
 <div align="center">
