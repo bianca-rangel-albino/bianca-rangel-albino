@@ -1,7 +1,6 @@
 ### Oii!! Eu sou a Bianca Rangel Albino 
 
--  Atualmente, trabalho como estagiária em Quality Assurance - QA
-- 🔭 Apaixonada com tecnologias front-end
+-  Atualmente, atuo como Quality Assurance - QA
 - 🌱 Estudante de Sistemas de Informação na PUC Minas
 - 📫 Contate-me no email: bianca_albinodev@hotmail.com
 
